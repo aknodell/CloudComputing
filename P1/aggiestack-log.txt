@@ -1,0 +1,5 @@
+aggiestack started
+aggiestack config --dfsfa hdwr-config0.txt: FAILURE
+Error: Invalid flag
+aggiestack config --hardware hdwr-config0.txt: SUCCESS
+aggiestack show all: SUCCESS

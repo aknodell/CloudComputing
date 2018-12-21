@@ -1,0 +1,39 @@
+[
+  {
+    "uid": 1001,
+    "age": 30,
+    "activityDuration": [20,45,35,40],
+	"stepCount": [2034,5432,3056,4302],
+	"goal": {
+      "activityGoal": "75min",
+      "stepGoal": 8000,
+      "weekGoal": 3
+    }
+  },
+  {
+    "uid": 1002,
+    "activityDuration": [50,4,10,60,67,10,30,45],
+    "gender": "female",
+	"goal": {
+      "activityGoal": "45min",
+      "stepGoal": 0,
+      "weekGoal": 4
+    },
+	"tags": ["activityOnly"]
+  },
+  {
+    "uid": 1003,
+    "employeeID": 111001111,
+	"stepCount": [6010,8900,10141,7543,6364,4901,351,204,5371,3454,6574,7856,9365,9646],
+    "gender": "male",
+    "height": "5ft10in",
+    "weight": "172lbs",
+    "division": "HR",
+	"goal": {
+      "activityGoal": "NA",
+      "stepGoal": 10000,
+      "weekGoal": 5
+    },
+	"tags": ["active", "stepOnly"]
+  }
+]
